@@ -7,3 +7,7 @@
 ```
 
 ## 添加一个HTML文件
+
+**git add .**
+
+- git status
